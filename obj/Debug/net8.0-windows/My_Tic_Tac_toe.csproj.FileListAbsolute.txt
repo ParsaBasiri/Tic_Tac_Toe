@@ -1,0 +1,16 @@
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.Form1.resources
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.csproj.GenerateResource.cache
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.AssemblyInfoInputs.cache
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.AssemblyInfo.cs
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\bin\Debug\net8.0-windows\My_Tic_Tac_toe.exe
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\bin\Debug\net8.0-windows\My_Tic_Tac_toe.deps.json
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\bin\Debug\net8.0-windows\My_Tic_Tac_toe.runtimeconfig.json
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\bin\Debug\net8.0-windows\My_Tic_Tac_toe.dll
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\bin\Debug\net8.0-windows\My_Tic_Tac_toe.pdb
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.dll
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\refint\My_Tic_Tac_toe.dll
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.pdb
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\My_Tic_Tac_toe.genruntimeconfig.cache
+C:\Users\AS\Desktop\C#\My_Tic_Tac_toe\obj\Debug\net8.0-windows\ref\My_Tic_Tac_toe.dll
